@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrd-404run&label=Profile%20views&color=0e75b6&style=flat" alt="nrd-404run" /> </p>
 
+<p align="left"> <a href="https://www.facebook.com/md.naimur.rahman.durjoy.360743" target="blank"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" /></a></p>
+
 <p align="left"> <a href="https://twitter.com/mddurjoy16250" target="blank"><img src="https://img.shields.io/twitter/follow/mddurjoy16250?logo=twitter&style=for-the-badge" alt="mddurjoy16250" /></a> </p>
 
 - 🔭 I’m currently working on **small-scale projects to improve my programming skills**

@@ -99,22 +99,6 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 
 </p>
 ---
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/mddurjoy16250">
-    <img src="https://img.shields.io/badge/Twitter-000?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/md.naimur.rahman.durjoy.360743">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" />
-  </a>
-  <a href="mailto:mddurjoy54531113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
----
-
 # 🚀 Visitors Map
 
 <p align="center">
@@ -138,4 +122,15 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 - Tea lover 🍵, Tech reading 📚  
 - Movie lover 🎬  
 
----
+---## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/mddurjoy16250">
+    <img src="https://img.shields.io/badge/Twitter-000?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/md.naimur.rahman.durjoy.360743">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" />
+  </a>
+  <a href="mailto:mddurjoy54531113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" />
+  </a>
+</p>

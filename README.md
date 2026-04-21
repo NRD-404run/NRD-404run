@@ -1,10 +1,9 @@
 
 <!-- Typing animation -->
 # 💫 About Me
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=7cfc00&lines=DURJOY😃👋+|+CSE+STUDENT+%7C+PROBLEM+SOLVER)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=7cfc00&lines=CHASING+THE+CODE+|+FUTURE+ML+ENGINEER+JOURNEY)](https://git.io/typing-svg)
+
 <!-- Banner -->
 <p align="center">
   <img alt="Coding" height="400" width="1000" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">

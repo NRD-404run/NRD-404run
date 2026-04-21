@@ -73,18 +73,18 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRD-404run&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRD-404run&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NRD-404run&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NRD-404run&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRD-404run&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRD-404run&layout=compact&theme=chartreuse-dark" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me

@@ -99,7 +99,8 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 
 </p>
 ---
-# 🚀 Visitors Map
+
+## 🚀 Visitors Map
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRD-404run&theme=chartreuse_dark"/>

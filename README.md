@@ -65,6 +65,19 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 
 ---
 
+# 📊 My GitHub Contributions
+
+<p align="center">
+
+  <!-- 🐍 Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NRD-404run/NRD-404run/blob/output/snek_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/NRD-404run/NRD-404run/blob/output/snek_light.svg">
+    <img src="https://github.com/NRD-404run/NRD-404run/blob/output/snek_dark.svg">
+  </picture>
+
+</p>
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NRD-404run&theme=tokyo-night" />

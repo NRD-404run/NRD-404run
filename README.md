@@ -121,7 +121,7 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 
 ---
 
-# 🌱 Hobbies
+## 🌱 Hobbies
 - 🏸 Badminton | 🏊‍♂️ Swimming | 💪 Fitness & Gym  
 - 🍵 Tea lover | 📚 Tech reading | 🎬 Movie lover  
 - 💻 Exploring new tech & coding ideas   

@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
+  <img alt="Coding" height="400" width="1000" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 </p>
 
 <h1 align="center">Hey 👋, I'm Durjoy</h1>

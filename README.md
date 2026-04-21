@@ -122,7 +122,8 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 - Tea lover 🍵, Tech reading 📚  
 - Movie lover 🎬  
 
----## 🌐 Connect With Me
+---
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://twitter.com/mddurjoy16250">
     <img src="https://img.shields.io/badge/Twitter-000?logo=twitter&style=for-the-badge" />

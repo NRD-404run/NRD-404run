@@ -104,7 +104,20 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 
 ---
 
-## 🌀 Visitor Counter
+# 🚀 Visitors Map
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NRD-404run&label=Profile%20Views&color=00F7FF&style=flat-square" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRD-404run&theme=chartreuse_dark"/>
+</p>
+
+<!-- 🔥 Extra Stats Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NRD-404run&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NRD-404run&theme=chartreuse_dark"/>
+</p>
+
+<!-- ⚡ Activity + Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NRD-404run&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NRD-404run&theme=chartreuse_dark&utcOffset=6"/>
 </p>

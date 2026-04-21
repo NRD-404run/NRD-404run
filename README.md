@@ -119,6 +119,8 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NRD-404run&theme=chartreuse_dark&utcOffset=6"/>
 </p>
 
+---
+
 # 🌱 Hobbies
 - Badminton 🏸, Swimming 🏊‍♂️, Fitness 💪  
 - Tea lover 🍵, Tech reading 📚  

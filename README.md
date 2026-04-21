@@ -122,9 +122,9 @@ A passionate CSE student focused on problem-solving, DSA, and building real-worl
 ---
 
 # 🌱 Hobbies
-- Badminton 🏸, Swimming 🏊‍♂️, Fitness 💪  
-- Tea lover 🍵, Tech reading 📚  
-- Movie lover 🎬  
+- 🏸 Badminton | 🏊‍♂️ Swimming | 💪 Fitness & Gym  
+- 🍵 Tea lover | 📚 Tech reading | 🎬 Movie lover  
+- 💻 Exploring new tech & coding ideas   
 
 ---
 ## 🌐 Connect With Me

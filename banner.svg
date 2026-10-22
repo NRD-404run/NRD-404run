@@ -99,8 +99,7 @@
     </g>
 
     <!-- greeting + name -->
-    <text class="mono rise d2" x="60" y="112" font-size="19" fill="#7cfc00">&gt; hello, world. i am</text>
-    <text class="sans rise d3" x="58" y="176" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="0.5" filter="url(#softglow)">Naimur Durjoy</text>
+    <text class="sans rise d3" x="58" y="176" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="0.5" filter="url(#softglow)">DURJOY</text>
 
     <!-- role -->
     <g class="rise d4">

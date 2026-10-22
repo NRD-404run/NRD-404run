@@ -181,7 +181,11 @@ A Java desktop application focused on connecting people with blood donors and ma
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NRD-404run&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=NRD-404run&theme=discord&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
 </p>
 
 ---

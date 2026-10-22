@@ -132,38 +132,43 @@ A Java desktop application focused on connecting people with blood donors and ma
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=NRD-404run&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7cfc00&icon_color=7cfc00&cache_seconds=3600" alt="GitHub stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRD-404run&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7cfc00&cache_seconds=3600" alt="Top languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=NRD-404run&show_icons=true&rank_icon=github&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7cfc00&icon_color=7cfc00&text_color=c9d1d9" alt="Durjoy's GitHub Stats"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRD-404run&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7cfc00&text_color=c9d1d9" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=NRD-404run&theme=tokyonight&hide_border=true&background=0d1117&ring=7cfc00&fire=7cfc00&currStreakLabel=7cfc00&cache_seconds=3600" alt="Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=NRD-404run&theme=dark&hide_border=true&background=0d1117&ring=7cfc00&fire=7cfc00&currStreakLabel=7cfc00&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Contribution Streak"/>
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NRD-404run&theme=tokyonight" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NRD-404run&theme=tokyonight" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NRD-404run&theme=tokyonight&utcOffset=6" />
-</p>
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NRD-404run&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7cfc00&line=7cfc00&point=ffffff&area=true&area_color=7cfc00" alt="Contribution graph"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NRD-404run&theme=github-compact&hide_border=true&bg_color=0d1117&color=7cfc00&line=7cfc00&point=ffffff&area=true&area_color=238636" alt="GitHub Contribution Graph"/>
 </p>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
   </picture>
 </p>
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NRD-404run&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NRD-404run&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Every contribution is a step forward. Keep learning, keep building! 💚</i>
 </p>
 
 ---

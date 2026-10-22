@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
-  <img src="./banner.svg"
+  <img src="./assets/banner.svg"
        alt="DURJOY - CSE Student and Future ML Engineer"
        width="100%"/>
 </p>

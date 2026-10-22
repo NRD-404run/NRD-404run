@@ -152,18 +152,29 @@ A Java desktop application focused on connecting people with blood donors and ma
 ### 🐍 Contribution Snake
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">⟡ ⚡ CYBERPUNK CONTRIBUTION SNAKE ⚡ ⟡</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake-dark.svg"
-    alt="Neon Green Contribution Snake"
+    alt="Cyberpunk Neon Green and Purple Contribution Snake"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <i>Every contribution is a step forward. Keep learning, keep building! 💚</i>
+  <img
+    src="https://img.shields.io/badge/◈_THEME-CYBERPUNK_◈-9d4edd?style=for-the-badge&labelColor=0d1117"
+    alt="Cyberpunk theme"
+  />
+</p>
+
+<p align="center">
+  <b>◈ CODE&nbsp; • &nbsp;CREATE&nbsp; • &nbsp;CONQUER ◈</b>
+  <br/>
+  <sub>Every commit moves the mission forward.</sub>
+  <br/>
+  <sub>🟢 Neon Green × 🟣 Cyber Purple</sub>
 </p>
 
 

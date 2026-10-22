@@ -151,13 +151,21 @@ A Java desktop application focused on connecting people with blood donors and ma
 
 ### 🐍 Contribution Snake
 
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/NRD-404run/NRD-404run/output/github-snake-dark.svg"
+    alt="Neon Green Contribution Snake"
+    width="100%"
+  />
 </p>
+
+<p align="center">
+  <i>Every contribution is a step forward. Keep learning, keep building! 💚</i>
+</p>
+
 
 ### 🏆 GitHub Trophies
 

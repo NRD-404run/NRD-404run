@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Neon Green Snake
+      - name: Generate Cyberpunk Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%237cfc00&color_dots=%23ebedf0,%23c6f6d5,%237cfc00,%2339ff14,%230b7a20
-            dist/github-snake-dark.svg?color_snake=%237cfc00&color_dots=%2316102b,%230b3d1b,%231b5e20,%2339ff14,%237cfc00
+            dist/github-snake.svg?color_snake=%2339ff14&color_dots=%23e8e7ff,%23c4b5fd,%239d4edd,%237c3aed,%237cfc00
+            dist/github-snake-dark.svg?color_snake=%2339ff14&color_dots=%2316102b,%23301a4b,%235b21b6,%239d4edd,%237cfc00
 
       - name: Publish Snake SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0

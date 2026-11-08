@@ -32,7 +32,7 @@
   <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/SKILLS-0d1117?style=flat-square&color=7cfc00" alt="Skills" /></a>
   <a href="#-featured-project"><img src="https://img.shields.io/badge/PROJECTS-0d1117?style=flat-square&color=9d4edd" alt="Projects" /></a>
   <a href="#-github-analytics"><img src="https://img.shields.io/badge/STATS-0d1117?style=flat-square&color=7cfc00" alt="Stats" /></a>
-  <a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-0d1117?style=flat-square&color=9d4edd" alt="Roadmap" /></a>
+  <a href="#-machine-learning-roadmap"><img src="https://img.shields.io/badge/ROADMAP-0d1117?style=flat-square&color=9d4edd" alt="Roadmap" /></a>
   <a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-0d1117?style=flat-square&color=7cfc00" alt="Connect" /></a>
 </p>
 
@@ -183,12 +183,8 @@ print(Durjoy().motto())
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175"
-       src="https://github-readme-stats.vercel.app/api?username=NRD-404run&show_icons=true&rank_icon=github&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7cfc00&icon_color=9d4edd&text_color=c9d1d9"
-       alt="GitHub statistics" />
-  <img height="175"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRD-404run&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"
-       alt="Most used programming languages" />
+  <img height="175" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img height="175" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used programming languages" />
 </p>
 
 <p align="center">

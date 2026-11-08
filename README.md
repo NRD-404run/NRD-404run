@@ -189,7 +189,7 @@ print(Durjoy().motto())
 
 <p align="center">
   <img width="70%"
-       src="https://streak-stats.demolab.com?user=NRD-404run&theme=dark&hide_border=true&background=0d1117&ring=7cfc00&fire=9d4edd&currStreakLabel=7cfc00&sideLabels=c9d1d9&dates=8b949e"
+       src="https://streak-stats.demolab.com?user=NRD-404run&theme=dark&hide_border=true&background=0d1117&ring=7cfc00&fire=9d4edd&currStreakLabel=7cfc00&sideLabels=c9d1d9&dates=8b949e&v=2"
        alt="GitHub contribution streak" />
 </p>
 
